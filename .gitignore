@@ -1,0 +1,6 @@
+__pycache__
+poc-dev
+*.zip
+*bkp*
+token.txt
+*.json
